@@ -1,9 +1,1 @@
-HerdMate v1.0 - Release Notes
-
-- Fully working calving record system with multi-service support
-- Animal profiles with sire, dam, tag, notes, and photo upload
-- Weight tracker with group comparison and averages
-- Treatment log with reminder support
-- Sample animals preloaded for testing
-- Feed Budget tab placeholder included
-- Fully offline-capable PWA
+HerdMate v1.0 - Fully working version.

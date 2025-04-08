@@ -1,5 +1,1 @@
-Known Issues + Fix Timeline
-
-- Minor spacing tweaks across some devices (planned for v1.1)
-- Profile photo preview does not update instantly (v1.1)
-- No bulk edit or import yet (coming in v2.0)
+Minor layout polish pending in v1.1.
